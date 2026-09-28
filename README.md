@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b2e&height=160&section=header&text=vanquzie&fontSize=42&fontColor=A78BFA&animation=fadeIn&fontAlignY=38" alt="vanquzie banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b2e&height=160&section=header&text=Van%20Quzie&fontSize=42&fontColor=A78BFA&animation=fadeIn&fontAlignY=38" alt="vanquzie banner" />
 
 <!-- ANIME BANNER: upload any 1920x500 anime wallpaper to vanquzie/vanquzie/assets/banner.png, then replace line above with:
 <img width="100%" src="./assets/banner.png" alt="anime banner" />
 -->
 
-# vanquzie
+# Van Quzie
 
 `ソフトウェアエンジニア - software engineer`
 `vanquzie.exe // v2.0 · 覚醒`
